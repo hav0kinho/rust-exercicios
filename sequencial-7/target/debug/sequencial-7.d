@@ -1,0 +1,1 @@
+C:\Users\Ruallyson\Desktop\Arquivos\Pastas\Desenvolvimento\ Web\ 3\Rust\Exercício\rust-exercicios\sequencial-7\target\debug\sequencial-7.exe: C:\Users\Ruallyson\Desktop\Arquivos\Pastas\Desenvolvimento\ Web\ 3\Rust\Exercício\rust-exercicios\sequencial-7\src\main.rs
