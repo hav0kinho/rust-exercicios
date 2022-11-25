@@ -1,0 +1,1 @@
+C:\Users\Ruallyson\Desktop\Arquivos\Pastas\Desenvolvimento\ Web\ 3\Rust\Exercício\rust-exercicios\decisao-5\target\debug\decisao-5.exe: C:\Users\Ruallyson\Desktop\Arquivos\Pastas\Desenvolvimento\ Web\ 3\Rust\Exercício\rust-exercicios\decisao-5\src\main.rs
