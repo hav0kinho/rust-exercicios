@@ -1,0 +1,1 @@
+C:\Users\xgame\Desktop\Pastas\ e\ Aplicativos\Meus\ Desenvolvimentos\Rust\rust-exercicios\classe-2\target\debug\classe-2.exe: C:\Users\xgame\Desktop\Pastas\ e\ Aplicativos\Meus\ Desenvolvimentos\Rust\rust-exercicios\classe-2\src\main.rs
